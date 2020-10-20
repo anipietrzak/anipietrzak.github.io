@@ -1,0 +1,20 @@
+
+html, body{
+width: 100%;
+height: 100%;
+font-family: Georgia, 'Times New Roman', Times, serif;
+background: url(lavender.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+h1{
+  font-size: 14px;
+  color: black;
+  text-align: center;
+}
+
+.buffer{
+  height: 50px;
+}
